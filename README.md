@@ -2,7 +2,7 @@ Kuzey Erkoç - Data Science Portfolio
 
 Hallo, ich bin Kuzey. Ich bin 17 Jahre alt und studiere an der Sakıp Sabancı Anatolian Gymnasium in Istanbul, Türkei.
 
-Ich interessiere mich besonders für Technik, Informatik, Datenwissenschaft und Softwareentwicklung und träume davon in Deutschland zu studieren und arbeiten.
+Ich interessiere mich besonders für Technik, Informatik und Datenwissenschaft und träume davon in Deutschland zu studieren und arbeiten.
 
 Ich beginne mit diesem Portfolio, um meine Reise auf Github zu dokumentieren und zu sehen, welche Fortschritte ich bisher erzielt habe.
 
