@@ -1,6 +1,6 @@
 Kuzey Erkoç - Data Science Portfolio
 
-Hallo, ich bin Kuzey. Ich bin 17 Jahre alt und studiere an der Sakıp Sabancı Anatolian Gymnasium in Istanbul, Türkei.
+Hallo, ich bin Kuzey. Ich bin 17 Jahre alt und studiere am Sakıp Sabancı Anatolian Gymnasium in Istanbul, Türkei.
 
 Ich interessiere mich besonders für Technik, Informatik und Datenwissenschaft und träume davon in Deutschland zu studieren und arbeiten.
 
